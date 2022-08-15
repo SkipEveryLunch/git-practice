@@ -1,5 +1,5 @@
 const greet = () => {
-  alert('Hello');
+  alert('Hello?');
 };
 
 const button = document.getElementById('greet');
