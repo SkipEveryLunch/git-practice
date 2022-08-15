@@ -1,5 +1,8 @@
+let count = 0;
 const greet = () => {
-  alert('Hello!!');
+  const exclamation = '!'.repeat(count);
+  alert(`Hello${exclamation}`);
+  count++;
 };
 
 const button = document.getElementById('greet');
