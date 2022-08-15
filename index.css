@@ -11,6 +11,10 @@
   align-items: center;
   gap: 2px;
 }
+.container div p {
+  font-size: 5px;
+  margin: 0;
+  }
 .container div h1 {
   font-size: 50px;
   margin: 0px;
